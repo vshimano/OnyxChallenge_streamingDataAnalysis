@@ -1,8 +1,8 @@
 # OnyxChallenge_streamingDataAnalysis
 
-# Onyx Data Challenge — Music Streaming Platform Analysis (May 2025)
+# Onyx Data Challenge — Music Streaming Platform Analysis (May 2026)
 
-A Power BI dashboard submitted to the [Onyx Data DataDNA Challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/) — May–June 2025. The challenge dataset represents a fictional music streaming platform operating across 10 countries from 2021 to 2024, with data covering users, listening behaviour, subscription lifecycle events, content, and revenue.
+A Power BI dashboard submitted to the [Onyx Data DataDNA Challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/) — May 2026. The challenge dataset represents a fictional music streaming platform operating across 10 countries from 2021 to 2024, with data covering users, listening behaviour, subscription lifecycle events, content, and revenue.
 
 ---
 
@@ -117,4 +117,4 @@ Onyx_MusicStreaming_Challenge/
 
 **Victoria Shimanovich**  
 PhD in Applied Mathematics | Data Analytics  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/jobs/view/4399065354/) | [GitHub](https://github.com/vshimano)
